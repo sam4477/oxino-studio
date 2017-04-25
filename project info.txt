@@ -1,0 +1,8 @@
+Oxino gmail    :   oxinodigital@gmail.com
+		pwd: 2017oxino
+
+Oxino fb	: oxino digital
+		pwd:2017oxino
+
+fb appid:   1443629392354305
+secret key  :95b2894a853c50721dc3a7cda41e83b2
